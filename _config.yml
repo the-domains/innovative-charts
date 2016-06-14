@@ -1,0 +1,14 @@
+layout_spectrum: 0.6340998702216893
+typography_spectrum: 0.7249973451253027
+color:
+  brandStrength: 0.7593746455386281
+  lightness: 0.6206520257983357
+  saturation: 0.5508674182929099
+  rhythmicContrast: 0.13227236946113408
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+name: innovative charts
